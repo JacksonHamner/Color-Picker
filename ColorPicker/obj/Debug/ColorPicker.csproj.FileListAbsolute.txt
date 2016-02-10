@@ -1,0 +1,9 @@
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.ColorPicker.resources
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+c:\users\jackson\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
